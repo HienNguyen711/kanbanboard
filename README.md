@@ -1,6 +1,5 @@
-# scrumboard
-
-## Scrumboard based on Kanban board
+# KanbanBoard
+A simple Kanban board with 'Todo', 'Progress', and 'Done' fields.
 
 ## Tech used: 
 + Python Django for Restful API backend
